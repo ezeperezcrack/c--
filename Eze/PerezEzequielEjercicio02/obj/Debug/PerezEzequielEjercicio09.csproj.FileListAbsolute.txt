@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\bin\Debug\PerezEzequielEjercicio02.exe.config
+C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\bin\Debug\PerezEzequielEjercicio02.exe
+C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\bin\Debug\PerezEzequielEjercicio02.pdb
+C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\obj\Debug\PerezEzequielEjercicio09.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\obj\Debug\PerezEzequielEjercicio02.exe
+C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\obj\Debug\PerezEzequielEjercicio02.pdb
