@@ -1,0 +1,8 @@
+D:\VisualStudio\entidades.sobrecarga\test.sobrecarga\obj\Debug\test.sobrecarga.csprojResolveAssemblyReference.cache
+D:\VisualStudio\entidades.sobrecarga\test.sobrecarga\bin\Debug\test.sobrecarga.exe.config
+D:\VisualStudio\entidades.sobrecarga\test.sobrecarga\bin\Debug\test.sobrecarga.exe
+D:\VisualStudio\entidades.sobrecarga\test.sobrecarga\bin\Debug\test.sobrecarga.pdb
+D:\VisualStudio\entidades.sobrecarga\test.sobrecarga\bin\Debug\entidades.sobrecarga.dll
+D:\VisualStudio\entidades.sobrecarga\test.sobrecarga\bin\Debug\entidades.sobrecarga.pdb
+D:\VisualStudio\entidades.sobrecarga\test.sobrecarga\obj\Debug\test.sobrecarga.exe
+D:\VisualStudio\entidades.sobrecarga\test.sobrecarga\obj\Debug\test.sobrecarga.pdb
