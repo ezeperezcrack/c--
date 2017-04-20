@@ -1,0 +1,10 @@
+D:\VisualStudio\entidades.sobrecarga\entidades.sobrecarga\bin\Debug\entidades.sobrecarga.dll
+D:\VisualStudio\entidades.sobrecarga\entidades.sobrecarga\bin\Debug\entidades.sobrecarga.pdb
+D:\VisualStudio\entidades.sobrecarga\entidades.sobrecarga\obj\Debug\entidades.sobrecarga.dll
+D:\VisualStudio\entidades.sobrecarga\entidades.sobrecarga\obj\Debug\entidades.sobrecarga.pdb
+D:\VisualStudio\entidades.sobrecarga\entidades.sobrecarga\obj\Debug\entidades.sobrecarga.csprojResolveAssemblyReference.cache
+C:\Users\Eze utn\Desktop\sobretesto\entidades.sobrecarga\bin\Debug\entidades.sobrecarga.dll
+C:\Users\Eze utn\Desktop\sobretesto\entidades.sobrecarga\bin\Debug\entidades.sobrecarga.pdb
+C:\Users\Eze utn\Desktop\sobretesto\entidades.sobrecarga\obj\Debug\entidades.sobrecarga.csprojResolveAssemblyReference.cache
+C:\Users\Eze utn\Desktop\sobretesto\entidades.sobrecarga\obj\Debug\entidades.sobrecarga.dll
+C:\Users\Eze utn\Desktop\sobretesto\entidades.sobrecarga\obj\Debug\entidades.sobrecarga.pdb

@@ -1,9 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio Express 2012 for Windows Desktop
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerezEzequielEjercicio01", "Eze\PerezEzequielEjercicio01.csproj", "{DAB75B79-96DF-48F0-8E20-3049C691F796}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerezEzequielEjercicio09", "PerezEzequielEjercicio02\PerezEzequielEjercicio09.csproj", "{5AFDE90E-6803-4967-92F4-16ACD36D1E96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entidades.sobrecarga", "sobretesto\entidades.sobrecarga\entidades.sobrecarga.csproj", "{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.sobrecarga", "sobretesto\test.sobrecarga\test.sobrecarga.csproj", "{AAD5372D-184A-4533-BD77-C0F6D558E686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp1_Calculadora", "Tp1_Calculadora\Tp1_Calculadora.csproj", "{D39A0A29-062C-4785-9F77-6990548B0D6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP1WFA", "TP1WFA\TP1WFA.csproj", "{E093D082-3C23-4608-B237-E1BF53BF9221}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,6 +27,22 @@ Global
 		{5AFDE90E-6803-4967-92F4-16ACD36D1E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AFDE90E-6803-4967-92F4-16ACD36D1E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AFDE90E-6803-4967-92F4-16ACD36D1E96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD5372D-184A-4533-BD77-C0F6D558E686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD5372D-184A-4533-BD77-C0F6D558E686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD5372D-184A-4533-BD77-C0F6D558E686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD5372D-184A-4533-BD77-C0F6D558E686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39A0A29-062C-4785-9F77-6990548B0D6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39A0A29-062C-4785-9F77-6990548B0D6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39A0A29-062C-4785-9F77-6990548B0D6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39A0A29-062C-4785-9F77-6990548B0D6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E093D082-3C23-4608-B237-E1BF53BF9221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E093D082-3C23-4608-B237-E1BF53BF9221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E093D082-3C23-4608-B237-E1BF53BF9221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E093D082-3C23-4608-B237-E1BF53BF9221}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

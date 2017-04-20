@@ -4,3 +4,6 @@ C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\bin\Debug\PerezEzequielEjer
 C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\obj\Debug\PerezEzequielEjercicio09.csprojResolveAssemblyReference.cache
 C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\obj\Debug\PerezEzequielEjercicio02.exe
 C:\Users\alumno\Desktop\Eze\PerezEzequielEjercicio02\obj\Debug\PerezEzequielEjercicio02.pdb
+C:\Users\Eze utn\Desktop\c---master\Eze\PerezEzequielEjercicio02\bin\Debug\PerezEzequielEjercicio02.exe.config
+C:\Users\Eze utn\Desktop\c---master\Eze\PerezEzequielEjercicio02\obj\Debug\PerezEzequielEjercicio02.exe
+C:\Users\Eze utn\Desktop\c---master\Eze\PerezEzequielEjercicio02\obj\Debug\PerezEzequielEjercicio02.pdb

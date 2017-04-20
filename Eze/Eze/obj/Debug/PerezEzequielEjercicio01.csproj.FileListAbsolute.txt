@@ -4,3 +4,9 @@ C:\Users\alumno\Desktop\Eze\Eze\bin\Debug\PerezEzequiel.exe
 C:\Users\alumno\Desktop\Eze\Eze\bin\Debug\PerezEzequiel.pdb
 C:\Users\alumno\Desktop\Eze\Eze\obj\Debug\PerezEzequiel.exe
 C:\Users\alumno\Desktop\Eze\Eze\obj\Debug\PerezEzequiel.pdb
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Eze\bin\Debug\PerezEzequiel.exe.config
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Eze\obj\Debug\PerezEzequiel.exe
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Eze\obj\Debug\PerezEzequiel.pdb
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Eze\bin\Debug\PerezEzequiel.exe
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Eze\bin\Debug\PerezEzequiel.pdb
+C:\Users\Eze utn\Desktop\segudo cuatri\Eze\Eze\obj\Debug\PerezEzequielEjercicio01.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entidades.sobrecarga", "entidades.sobrecarga\entidades.sobrecarga.csproj", "{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test.sobrecarga", "test.sobrecarga\test.sobrecarga.csproj", "{AAD5372D-184A-4533-BD77-C0F6D558E686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DA3B95-AB98-416B-8DA7-E28F27999AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD5372D-184A-4533-BD77-C0F6D558E686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD5372D-184A-4533-BD77-C0F6D558E686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD5372D-184A-4533-BD77-C0F6D558E686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD5372D-184A-4533-BD77-C0F6D558E686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
