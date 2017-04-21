@@ -1,0 +1,45 @@
+TUTORIALSPOINT
+paleta{
+
+(-)_colores : tempera[]
+(-)_cantidadMaximaColores : int
+
+//constructor
+(-)()//inicializa en 5 _colores
+(-)(int)//cantidad max de colores
+
+
+implicit (int) : paleta
+
+
+(-)Mostrar():string
+
+
+explicit (Paleta):string//reutiliza el mostrar
+
+
+==(paleta, tempera):bool///si tempera ya se encuentra en mi array de temperas(dentro de paleta) retorna true. hay que recorrer todo el elemento.
+*->si tempera esta en paleta-->true
+
+
++(paleta, tempera):paleta
+*->si tempera esta en paleta-->incrementa cantidad en tempera
+*->si no esta--> agrega la tempera en el primer lugar disponible
+
+
+-(paleta, tempera):paleta/// si es 0 o menos, queda null el lugar para poder colocar otro color y si la tempera no esta en la paleta no hago nada
+*->si tempera esta en paleta->decrementa cantidad
+*)si cantidad menor o igual a cero, elimina la tempera (null)
+
++(paleta, paleta):paleta/// cada paleta puede tener distintas dimenciones, la nueva paleta donde voy a sumar ambas tiene que tener como maximo la cantidad de lugares de ambas sumadas.
+*->genera una paleta con los colores de ambas paletas.
+*)si temperas son iguales-->suma cantidades
+
+
+//obtenerIndice + 1overload
+*)obtenerIndice():int
+*-> retorna el indice del primer lugar disponible (null) o valor neg. si no hay lugar
+*)obtenerIndice(Tempera):int
+*->retorna el indice donde se encuentra la tempera o valor neg. si no la encuentra
+
+}
