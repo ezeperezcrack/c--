@@ -5,17 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Collections;
 
-using Clase06.Entidades;
-
 namespace Clase08
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Tempera temp1 = new Tempera(ConsoleColor.Blue, " azul ",1);
-            Tempera temp3 = new Tempera(ConsoleColor.Black, " negro ",3);
-            Tempera temp2 = new Tempera(ConsoleColor.Red, " rojo ",2);
+           // Tempera temp1 = new Tempera(ConsoleColor.Blue, " azul ",1);
+            
+           // Tempera temp3 = new Tempera(ConsoleColor.Black, " negro ",3);
+            //Tempera temp2 = new Tempera(ConsoleColor.Red, " rojo ",2);
             Stack Pila = new Stack();
             
             /*

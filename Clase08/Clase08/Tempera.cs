@@ -3,23 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Clase08;
 
-namespace Clase06.Entidades
+
+namespace Clase08
 {
+
     public class Tempera
     {
         private ConsoleColor _color;
         private string _marca;
         private int _cantidad;
-
+    
         public Tempera(ConsoleColor a, string b, int c)
         {
             this._color = a;
             this._marca = b;
             this._cantidad = c;
         }
-
+    
         private string Mostrar()
         {
             return this._color.ToString() + this._marca.ToString() + this._cantidad.ToString();
@@ -29,7 +30,7 @@ namespace Clase06.Entidades
         {
             return a.Mostrar();
         }
-
+    }/*
         public static Boolean operator ==(Tempera t1, Tempera t2)
         {
             if (t1._marca == t2._marca && t1._color == t2._color)
@@ -81,5 +82,5 @@ namespace Clase06.Entidades
         }
 
 
-    }
+    }*/
 }

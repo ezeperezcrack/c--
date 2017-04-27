@@ -1,0 +1,13 @@
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\bin\Debug\temperapaletawf.exe.config
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\obj\Debug\temperapaletawf.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\obj\Debug\temperapaletawf.FrmPrincipal.resources
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\obj\Debug\temperapaletawf.Properties.Resources.resources
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\obj\Debug\temperapaletawf.csproj.GenerateResource.Cache
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\bin\Debug\temperapaletawf.exe
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\bin\Debug\temperapaletawf.pdb
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\bin\Debug\Clase08.exe
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\bin\Debug\Clase08.pdb
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\obj\Debug\temperapaletawf.exe
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\obj\Debug\temperapaletawf.pdb
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\obj\Debug\temperapaletawf.FrmTempera.resources
+C:\Users\alumno\Desktop\c---master\Clase08\temperapaletawf\obj\Debug\temperapaletawf.FrmMostrar.resources

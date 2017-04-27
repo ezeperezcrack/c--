@@ -4,3 +4,9 @@ D:\VisualStudio\Clase08\Clase08\bin\Debug\Clase08.pdb
 D:\VisualStudio\Clase08\Clase08\obj\Debug\Clase08.csprojResolveAssemblyReference.cache
 D:\VisualStudio\Clase08\Clase08\obj\Debug\Clase08.exe
 D:\VisualStudio\Clase08\Clase08\obj\Debug\Clase08.pdb
+C:\Users\alumno\Desktop\c---master\Clase08\Clase08\bin\Debug\Clase08.exe.config
+C:\Users\alumno\Desktop\c---master\Clase08\Clase08\obj\Debug\Clase08.exe
+C:\Users\alumno\Desktop\c---master\Clase08\Clase08\obj\Debug\Clase08.pdb
+C:\Users\alumno\Desktop\c---master\Clase08\Clase08\bin\Debug\Clase08.exe
+C:\Users\alumno\Desktop\c---master\Clase08\Clase08\bin\Debug\Clase08.pdb
+C:\Users\alumno\Desktop\c---master\Clase08\Clase08\obj\Debug\Clase08.csprojResolveAssemblyReference.cache
