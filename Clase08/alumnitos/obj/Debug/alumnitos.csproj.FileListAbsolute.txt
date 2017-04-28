@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\c---master\Clase08\alumnitos\obj\Debug\alumnitos.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\c---master\Clase08\alumnitos\bin\Debug\alumnitos.exe.config
+C:\Users\alumno\Desktop\c---master\Clase08\alumnitos\bin\Debug\alumnitos.exe
+C:\Users\alumno\Desktop\c---master\Clase08\alumnitos\bin\Debug\alumnitos.pdb
+C:\Users\alumno\Desktop\c---master\Clase08\alumnitos\obj\Debug\alumnitos.exe
+C:\Users\alumno\Desktop\c---master\Clase08\alumnitos\obj\Debug\alumnitos.pdb
