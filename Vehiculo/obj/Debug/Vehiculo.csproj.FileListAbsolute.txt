@@ -1,0 +1,11 @@
+C:\Users\nahuel\Desktop\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.csprojResolveAssemblyReference.cache
+E:\c#\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.csprojResolveAssemblyReference.cache
+E:\c#\SchlieterCristian\Vehiculo\bin\Debug\Vehiculo.dll
+E:\c#\SchlieterCristian\Vehiculo\bin\Debug\Vehiculo.pdb
+E:\c#\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.dll
+E:\c#\SchlieterCristian\Vehiculo\obj\Debug\Vehiculo.pdb
+C:\Users\Eze utn\Desktop\C--master\Vehiculo\bin\Debug\Vehiculo.dll
+C:\Users\Eze utn\Desktop\C--master\Vehiculo\bin\Debug\Vehiculo.pdb
+C:\Users\Eze utn\Desktop\C--master\Vehiculo\obj\Debug\Vehiculo.csprojResolveAssemblyReference.cache
+C:\Users\Eze utn\Desktop\C--master\Vehiculo\obj\Debug\Vehiculo.dll
+C:\Users\Eze utn\Desktop\C--master\Vehiculo\obj\Debug\Vehiculo.pdb

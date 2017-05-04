@@ -1,0 +1,6 @@
+C:\Users\Eze utn\Desktop\ModeloParcial\Parcial1\obj\Debug\Parcial1.csprojResolveAssemblyReference.cache
+C:\Users\Eze utn\Desktop\ModeloParcial\Parcial1\bin\Debug\Parcial1.dll.config
+C:\Users\Eze utn\Desktop\ModeloParcial\Parcial1\bin\Debug\Parcial1.dll
+C:\Users\Eze utn\Desktop\ModeloParcial\Parcial1\bin\Debug\Parcial1.pdb
+C:\Users\Eze utn\Desktop\ModeloParcial\Parcial1\obj\Debug\Parcial1.dll
+C:\Users\Eze utn\Desktop\ModeloParcial\Parcial1\obj\Debug\Parcial1.pdb
