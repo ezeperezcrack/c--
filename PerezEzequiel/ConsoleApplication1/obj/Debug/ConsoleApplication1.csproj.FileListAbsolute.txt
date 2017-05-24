@@ -1,0 +1,10 @@
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\bin\Debug\Clase15.dll
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\bin\Debug\Clase15.pdb
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\bin\Debug\Entidades.Externa.dll
+D:\VisualStudio\PerezEzequiel\ConsoleApplication1\bin\Debug\Entidades.Externa.Sellada.dll

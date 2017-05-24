@@ -1,0 +1,7 @@
+D:\VisualStudio\PerezEzequiel\Clase15\bin\Debug\Clase15.dll
+D:\VisualStudio\PerezEzequiel\Clase15\bin\Debug\Clase15.pdb
+D:\VisualStudio\PerezEzequiel\Clase15\obj\Debug\Clase15.dll
+D:\VisualStudio\PerezEzequiel\Clase15\obj\Debug\Clase15.pdb
+D:\VisualStudio\PerezEzequiel\Clase15\bin\Debug\Entidades.Externa.dll
+D:\VisualStudio\PerezEzequiel\Clase15\bin\Debug\Entidades.Externa.Sellada.dll
+D:\VisualStudio\PerezEzequiel\Clase15\obj\Debug\Clase15.csprojResolveAssemblyReference.cache
